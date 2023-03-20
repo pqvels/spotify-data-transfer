@@ -21,12 +21,12 @@ $ pip3 install -r requirements.txt
 5. Copy and paste Client ID from Dashboard to YOUR_APP_CLIENT_ID in `.env` file.
 6. Copy and paste Client ID (you should click Show Clients Secret) from Dashboard to YOUR_APP_CLIENT_SECRET in `.env` file.
 # Run:
-1. Login to your spotify accout from which you want to export information into your default browser.
+1. Login to your spotify accout from which you want to export information in your default browser.
 2. Run the script for export:
 ```
 $ python3 export.py
 ```
-3. Login to your spotify accout from which you want to import information into your default browser.
+3. Login to your spotify accout from which you want to import information in your default browser.
 4. Run the script for export:
 ```
 $ python3 import.py
